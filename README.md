@@ -13,6 +13,10 @@ A simple and responsive Expense Tracker built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+- input.png
+- output.png
+- graph.png 
+ 
 
 ## How to Run
 1. Download or clone the repository.
